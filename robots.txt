@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohphapahbo.henrygarner.com/sitemap.xml
